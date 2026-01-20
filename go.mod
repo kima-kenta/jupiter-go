@@ -1,4 +1,4 @@
-module github.com/ilkamo/jupiter-go
+module github.com/kima-kenta/jupiter-go
 
 go 1.24.1
 

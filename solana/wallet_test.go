@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	jupSolana "github.com/ilkamo/jupiter-go/solana"
+	jupSolana "github.com/kima-kenta/jupiter-go/solana"
 )
 
 func TestNewWalletFromPrivateKeyBase58(t *testing.T) {
